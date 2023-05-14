@@ -4,7 +4,7 @@ Created on Sun Dec  6 02:55:15 2020
 
 @author: apmle
 """
-
+# area
 def quadrado(comprimento):
     area = comprimento**2
     print(f"The area of the square is {area} square meters.")
