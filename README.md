@@ -1,2 +1,2 @@
 # Python
-Some of my projects in Python
+Some of my early projects in Python
